@@ -1,5 +1,5 @@
 # Agrinho-2025
-*Meu projeto tem o objetivo de incentivar as pessoas a plantar árvores, e a única coisar que tem que fazer é clicar com o mouse no lugar desejado, e plantará uma muda de árvore instantaneamente que crescerá em pouco tempo.
+*Este projeto tem o objetivo de incentivar as pessoas a plantarem árvores, e o que precisa fazer para interagir com o projeto é clicar com o mouse no lugar desejado, e plantará uma muda de árvore instantaneamente que crescerá em pouco tempo.
 *Eu usei o chat gpt, pedi para ele criar a terra dizendo "crie um chao com terra escura", mandei criar o codigo para as mudas "faça nascer mudas de plantas onde eu clicar com o mouse",
 pedi para fazer as mudas crescerem lentamente com o prompt "faça as mudas evoluirem", e por fim mandei criar um estágio onde a muda fica adulta, que pedi o seguinte, "faça com que as mudas mudem de estágio apos alguns segundos, virando uma muda adulta".
 *Pedi para ele criar também os códigos que fazem as plantas crescerem, resumindo eu usei IA para ir criando as partes do projeto.
